@@ -1,0 +1,4 @@
+18 11 2017 00:45:50,628 INFO  ~ Starting D:\workspace\aaa\maven1_ref\maven1\.
+18 11 2017 00:45:51,142 WARN  ~ You're running Play! in DEV mode
+18 11 2017 00:45:51,990 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0 for default
+18 11 2017 00:45:52,451 INFO  ~ Application 'maven1' is now started !
